@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">exam</string>
+    <string name="hey_developer_welcome">Hey Developer Welcome !</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="long_press_to_enter_dob">Long Press To Enter DOB</string>
+    <string name="todo">TODO</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="select_your_work">Select Your Work</string>
+    <string name="i_accept_terms_and_conditions">I Accept Terms And Conditions.</string>
+    <string name="signup">SignUp</string>
+</resources>
